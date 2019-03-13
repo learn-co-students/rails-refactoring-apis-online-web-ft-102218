@@ -1,5 +1,5 @@
 class GithubRepo
-
+ #same as solution?
   attr_reader :name, :url
 
   def initialize(hash)
